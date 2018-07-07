@@ -9,6 +9,7 @@
         z-index: 10;
         transform: all .2s;
         outline-offset: 2rem;
+        transition: transform .2s;
 
         &--p1{
             left: 0;
